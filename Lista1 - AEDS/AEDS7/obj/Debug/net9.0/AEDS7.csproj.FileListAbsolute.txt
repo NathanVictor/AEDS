@@ -1,0 +1,14 @@
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\bin\Debug\net9.0\AEDS7.exe
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\bin\Debug\net9.0\AEDS7.deps.json
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\bin\Debug\net9.0\AEDS7.runtimeconfig.json
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\bin\Debug\net9.0\AEDS7.dll
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\bin\Debug\net9.0\AEDS7.pdb
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\AEDS7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\AEDS7.AssemblyInfoInputs.cache
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\AEDS7.AssemblyInfo.cs
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\AEDS7.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\AEDS7.dll
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\refint\AEDS7.dll
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\AEDS7.pdb
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\AEDS7.genruntimeconfig.cache
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS7\obj\Debug\net9.0\ref\AEDS7.dll

@@ -1,0 +1,14 @@
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\bin\Debug\net9.0\AEDS3.exe
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\bin\Debug\net9.0\AEDS3.deps.json
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\bin\Debug\net9.0\AEDS3.runtimeconfig.json
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\bin\Debug\net9.0\AEDS3.dll
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\bin\Debug\net9.0\AEDS3.pdb
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\AEDS3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\AEDS3.AssemblyInfoInputs.cache
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\AEDS3.AssemblyInfo.cs
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\AEDS3.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\AEDS3.dll
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\refint\AEDS3.dll
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\AEDS3.pdb
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\AEDS3.genruntimeconfig.cache
+C:\Users\Nathan\OneDrive\Área de Trabalho\AEDS3\obj\Debug\net9.0\ref\AEDS3.dll
