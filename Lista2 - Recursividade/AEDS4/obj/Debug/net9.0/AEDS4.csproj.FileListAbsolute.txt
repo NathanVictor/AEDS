@@ -1,0 +1,15 @@
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\bin\Debug\net9.0\AEDS4.exe
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\bin\Debug\net9.0\AEDS4.deps.json
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\bin\Debug\net9.0\AEDS4.runtimeconfig.json
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\bin\Debug\net9.0\AEDS4.dll
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\bin\Debug\net9.0\AEDS4.pdb
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\AEDS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\AEDS4.AssemblyInfoInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\AEDS4.AssemblyInfo.cs
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\AEDS4.csproj.CoreCompileInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\AEDS4.sourcelink.json
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\AEDS4.dll
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\refint\AEDS4.dll
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\AEDS4.pdb
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\AEDS4.genruntimeconfig.cache
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS4\obj\Debug\net9.0\ref\AEDS4.dll
