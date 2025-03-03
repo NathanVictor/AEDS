@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nathan.DESKTOP-71OEECP\\AEDS\\AEDS.csproj",
-      "projectName": "AEDS",
-      "projectPath": "C:\\Users\\Nathan.DESKTOP-71OEECP\\AEDS\\AEDS.csproj",
+      "projectUniqueName": "C:\\Users\\Nathan.DESKTOP-71OEECP\\AEDS\\Lista2 - Recursividade\\AEDS4\\AEDS4.csproj",
+      "projectName": "AEDS4",
+      "projectPath": "C:\\Users\\Nathan.DESKTOP-71OEECP\\AEDS\\Lista2 - Recursividade\\AEDS4\\AEDS4.csproj",
       "packagesPath": "C:\\Users\\Nathan.DESKTOP-71OEECP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nathan.DESKTOP-71OEECP\\AEDS\\obj\\",
+      "outputPath": "C:\\Users\\Nathan.DESKTOP-71OEECP\\AEDS\\Lista2 - Recursividade\\AEDS4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nathan.DESKTOP-71OEECP\\AppData\\Roaming\\NuGet\\NuGet.Config"
