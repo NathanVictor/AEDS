@@ -1,0 +1,5 @@
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS5\obj\Debug\net9.0\AEDS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS5\obj\Debug\net9.0\AEDS5.AssemblyInfoInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS5\obj\Debug\net9.0\AEDS5.AssemblyInfo.cs
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS5\obj\Debug\net9.0\AEDS5.csproj.CoreCompileInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista2 - Recursividade\AEDS5\obj\Debug\net9.0\AEDS5.sourcelink.json
