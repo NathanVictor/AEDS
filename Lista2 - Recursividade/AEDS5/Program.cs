@@ -9,8 +9,6 @@
         }
         else
         {
-            
-            int count = (x[n - 1] < 0) * 1; 
 
            
             return count + Menor(x, n - 1);
