@@ -4,7 +4,7 @@
 
         int resp;
 
-        if(m == n){
+        if(n == m){
             resp = m;
 
         }else{
