@@ -1,5 +1,3 @@
-﻿namespace AEDS4;
-
 class Program
 {
     public static int Maximo(int x, int y)
@@ -8,7 +6,6 @@ class Program
         if (x >= y)
         {
             return = x;
-
         }
         else
         {
