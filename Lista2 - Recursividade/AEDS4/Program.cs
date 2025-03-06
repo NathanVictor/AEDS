@@ -13,7 +13,8 @@ class Program
         else
         {
             return = Maximo(x - y, y);
-        }else
+        }
+        else
         {
             return Maximo(y, x)
         }
