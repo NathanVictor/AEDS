@@ -5,19 +5,21 @@
         
         if (n == 0)
         {
-            return 0;
+            return n;
         }
-        else
+        else if(x[n-1] < 0)
         {
+            return 1 + Menor(x, n-1);
+        }
 
-           
-            return count + Menor(x, n - 1);
+        else{
+            return Menor(x,n-1);
         }
     }
 
     public static void Main(string[] args)
     {
-        int[] array = {1, 2, 3, 4, 5};
+        int[] array = {-1, 2, 3, -4, 5};
         int n = array.Length;
 
         Console.WriteLine(Menor(array, n));  
