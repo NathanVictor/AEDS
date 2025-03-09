@@ -1,21 +1,21 @@
-﻿namespace AEDS4;
+using System;
 
 class Program
 {
-    public static int Maximo(int x, int y)
+    public static int MDC(int x, int y)
     {
 
-        if (x >= y)
+        if (x == y)
         {
-            return = x;
-
+            return x;
+        }
+        else if (x > y)
+        {
+            return MDC(x - y, y);
         }
         else
         {
-            return = Maximo(x - y, y);
-        }else
-        {
-            return Maximo(y, x)
+            return MDC(y, x);
         }
 
     }
@@ -26,6 +26,6 @@ class Program
         int valor1 = 10;
         int valor2 = 6;
 
-        Console.WriteLine(Maximo(valor1, valor2));
+        Console.WriteLine("O MDC de " + valor1 + " e " + valor2 + " é: " + MDC(valor1, valor2));
     }
 }
