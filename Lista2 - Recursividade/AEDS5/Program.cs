@@ -1,5 +1,6 @@
 ﻿class Program
 {
+    // Atualizado!
     public static int Menor(int[] x, int n)
     {
         
