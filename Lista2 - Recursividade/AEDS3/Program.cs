@@ -17,7 +17,7 @@ class Program
     }
     public static void Main()
     {
-        int valor = 12;
+        int valor = 3;
         converterBinario(valor);
 
     }
