@@ -58,6 +58,11 @@ class Program
                     break;
 
                 case 6:
+                 if (maratonista.Count > 0)
+                    {
+                        double ;
+                        
+                    }
                     
                     break;
 
