@@ -1,9 +1,10 @@
-﻿namespace AEDS3;
+﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Hello, World!");
-    }
+        string input = Console.ReadLine();
+    }    
 }
