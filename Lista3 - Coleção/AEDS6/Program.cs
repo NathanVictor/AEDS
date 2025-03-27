@@ -6,7 +6,6 @@ class Program
     public static void Main()
     {
         LinkedList<string> listaMusicas = new LinkedList<string>();
-        
         string opcao;
 
         while (true)
