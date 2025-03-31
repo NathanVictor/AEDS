@@ -5,56 +5,41 @@ class Program
 {
     static void Main()
     {
-        string expressao = Console.ReadLine();
+        string sequencia = Console.ReadLine();
 
-        Stack<double> pilha = new Stack<double>();
+        Stack<char> pilha = new Stack<char>();
+        
+        bool correta = true;
 
-        foreach (char c in expressao)
+        foreach (char c in sequencia)
         {
-            if (char.IsDigit(c))
+            if (c == '(' || c == '[')
             {
-                // Converte o caractere para número e empilha
-                pilha.Push((int)char.GetNumericValue(c));
+                pilha.Push(c);
             }
-            else if (c == '+' || c == '-' || c == '*' || c == '/')
+            else if (c == ')')
             {
-                // Desempilha os dois últimos operandos
-                double b = pilha.Pop();
-                double a = pilha.Pop();
-
-                double resultado = 0;
-
-                switch (c)
+                if (pilha.Count == 0 || pilha.Pop() != '(')
                 {
-                    case '+':
-                        resultado = a + b;
-                        break;
-                    case '-':
-                        resultado = a - b;
-                        break;
-                    case '*':
-                        resultado = a * b;
-                        break;
-                    case '/':
-                        if (b != 0) 
-                            resultado = a / b;
-                        else
-                        {
-                            Console.WriteLine("Erro: divisão por zero!");
-                            return;
-                        }
-                        break;
+                    correta = false;
+                    break;
                 }
-
-                // Empilha o resultado
-                pilha.Push(resultado);
+            }
+            else if (c == ']')
+            {
+                if (pilha.Count == 0 || pilha.Pop() != '[')
+                {
+                    correta = false;
+                    break;
+                }
             }
         }
 
-        // O valor final estará no topo da pilha
-        if (pilha.Count == 1)
+        if (pilha.Count > 0)
         {
-            Console.WriteLine(""+ pilha.Pop());
+            correta = false;
         }
+
+        Console.WriteLine(correta ? "correta" : "errada");
     }
 }
