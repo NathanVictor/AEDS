@@ -6,6 +6,7 @@ class Program
     static void Main()
     {
         Queue<string> filaDeAviões = new Queue<string>();
+        
         bool continuar = true;
 
         while (continuar)
