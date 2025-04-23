@@ -1,0 +1,122 @@
+﻿using System;
+
+class Arquivo
+{
+    public string Nome { get; set; }
+    public int NumPaginas { get; set; }
+
+    public Arquivo(string nome, int numPaginas)
+    {
+        Nome = nome;
+        NumPaginas = numPaginas;
+    }
+
+    public override string ToString()
+    {
+        return $"{Nome} {NumPaginas}";
+    }
+}
+
+class Fila
+{
+    private Arquivo[] array;
+    private int inicio;
+    private int fim;
+    private int tamanho;
+
+    public Fila()
+    {
+        array = new Arquivo[100];
+        inicio = 0;
+        fim = 0;
+        tamanho = 0;
+    }
+
+    public bool EstaCheia()
+    {
+        return tamanho == array.Length;
+    }
+
+    public bool EstaVazia()
+    {
+        return tamanho == 0;
+    }
+
+    public void Inserir(Arquivo arq)
+    {
+        if (!EstaCheia())
+        {
+            array[fim] = arq;
+            fim = (fim + 1) % array.Length;
+            tamanho++;
+        }
+    }
+
+    public Arquivo Remover()
+    {
+        if (!EstaVazia())
+        {
+            Arquivo arq = array[inicio];
+            inicio = (inicio + 1) % array.Length;
+            tamanho--;
+            return arq;
+        }
+        return null;
+    }
+
+    public void Listar()
+    {
+        int pos = inicio;
+        for (int i = 0; i < tamanho; i++)
+        {
+            Console.WriteLine(array[pos].ToString());
+            pos = (pos + 1) % array.Length;
+        }
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Fila fila = new Fila();
+        int opcao;
+
+        do
+        {
+            Console.WriteLine("Op:");
+            if (!int.TryParse(Console.ReadLine(), out opcao))
+                opcao = 0;
+
+            switch (opcao)
+            {
+                case 1:
+                    string nome = Console.ReadLine();
+                    int paginas = int.Parse(Console.ReadLine());
+                    Arquivo novoArquivo = new Arquivo(nome, paginas);
+                    fila.Inserir(novoArquivo);
+                    break;
+
+                case 2:
+                    Arquivo impresso = fila.Remover();
+                    if (impresso != null)
+                    {
+                        Console.WriteLine(impresso.Nome);
+                    }
+                    break;
+
+                case 3:
+                    fila.Listar();
+                    break;
+
+                case 4:
+                    // Encerrar
+                    break;
+
+                default:
+                    break;
+            }
+
+        } while (opcao != 4);
+    }
+}
