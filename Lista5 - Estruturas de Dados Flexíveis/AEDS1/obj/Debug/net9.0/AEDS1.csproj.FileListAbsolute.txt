@@ -1,0 +1,5 @@
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.AssemblyInfoInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.AssemblyInfo.cs
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.csproj.CoreCompileInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.sourcelink.json
