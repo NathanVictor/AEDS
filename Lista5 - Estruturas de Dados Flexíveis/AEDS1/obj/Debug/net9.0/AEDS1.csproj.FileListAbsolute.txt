@@ -3,3 +3,13 @@ C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexí
 C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.AssemblyInfo.cs
 C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.csproj.CoreCompileInputs.cache
 C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.sourcelink.json
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\bin\Debug\net9.0\AEDS1.exe
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\bin\Debug\net9.0\AEDS1.deps.json
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\bin\Debug\net9.0\AEDS1.runtimeconfig.json
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\bin\Debug\net9.0\AEDS1.dll
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\bin\Debug\net9.0\AEDS1.pdb
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.dll
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\refint\AEDS1.dll
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.pdb
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\AEDS1.genruntimeconfig.cache
+C:\Users\Nathan.DESKTOP-71OEECP\Desktop\AEDS\Lista5 - Estruturas de Dados Flexíveis\AEDS1\obj\Debug\net9.0\ref\AEDS1.dll
