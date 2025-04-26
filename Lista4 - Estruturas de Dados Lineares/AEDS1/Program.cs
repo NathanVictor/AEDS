@@ -120,7 +120,7 @@ class Lista
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Lista lista = new Lista();
         int opcao;
