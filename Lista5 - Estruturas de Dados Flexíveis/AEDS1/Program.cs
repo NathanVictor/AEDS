@@ -54,6 +54,7 @@ class Pilha
     public void Mostrar()
     {
         Console.Write("[ ");
+        
         for (Celula i = topo; i != null; i = i.Prox)
         {
             Console.Write(i.Elemento + " ");
@@ -91,16 +92,15 @@ class Program
 
     public static void Main()
     {
-        Console.WriteLine("Digite a sequência:");
         string entrada = Console.ReadLine();
 
         if (VerificarSequencia(entrada))
         {
-            Console.WriteLine("Correta");
+            Console.WriteLine("correta");
         }
         else
         {
-            Console.WriteLine("Errada");
+            Console.WriteLine("errada");
         }
     }
 }
