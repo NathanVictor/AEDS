@@ -27,7 +27,7 @@ class Program
 
     static void Main(string[] args)
     {
-        int[] vet = { 1, 6, 0, 3, 7 };
+        int[] vet = [1, 6, 0, 3, 7];
 
         // Medir tempo da ordenação
         Stopwatch stopWatch = new Stopwatch();
