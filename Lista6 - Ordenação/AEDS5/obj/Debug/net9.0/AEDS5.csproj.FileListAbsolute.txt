@@ -1,0 +1,15 @@
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\bin\Debug\net9.0\AEDS5.exe
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\bin\Debug\net9.0\AEDS5.deps.json
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\bin\Debug\net9.0\AEDS5.runtimeconfig.json
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\bin\Debug\net9.0\AEDS5.dll
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\bin\Debug\net9.0\AEDS5.pdb
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\AEDS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\AEDS5.AssemblyInfoInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\AEDS5.AssemblyInfo.cs
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\AEDS5.csproj.CoreCompileInputs.cache
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\AEDS5.sourcelink.json
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\AEDS5.dll
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\refint\AEDS5.dll
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\AEDS5.pdb
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\AEDS5.genruntimeconfig.cache
+C:\Users\Nathan.DESKTOP-71OEECP\AEDS\Lista6 - Ordenação\AEDS5\obj\Debug\net9.0\ref\AEDS5.dll
