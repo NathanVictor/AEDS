@@ -78,5 +78,15 @@ class Program
 
     }
 
+    public static MostrarCaminhaPosOrdem()
+    {
+
+    }
+
+    public static MostrarCaminhoPreOrdem()
+    {
+
+    }
+
 
 }
