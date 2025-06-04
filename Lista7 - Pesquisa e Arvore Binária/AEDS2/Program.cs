@@ -207,7 +207,6 @@ class Program
 
             if (string.IsNullOrWhiteSpace(inputOpcao))
             {
-
                 continue;
             }
 
@@ -219,14 +218,9 @@ class Program
                 }
                 else
                 {
-
                     opcao = 0;
-
-
                 }
             }
-
-
 
             if (opcao >= 1 && opcao <= 8)
             {
@@ -282,6 +276,7 @@ class Program
             }
             else
             {
+
             }
 
         } while (opcao != 9);
